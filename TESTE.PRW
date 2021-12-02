@@ -1,3 +1,3 @@
 USER FUNCTION TESTE()
-
+alert("teste")
 RETURN
